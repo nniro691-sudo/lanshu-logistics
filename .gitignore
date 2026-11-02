@@ -1,0 +1,5 @@
+.openai/
+outputs/
+.DS_Store
+site-deploy.tar.gz
+VERIFICATION.md
